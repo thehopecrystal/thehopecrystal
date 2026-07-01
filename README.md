@@ -2,7 +2,7 @@
 
 ### A passionate Full-Stack Developer & Open-Source Enthusiast from Earth
 
-<p align="left"> <img src="https://komarev.com/gh-profile-card?username=thehopecrystal&hide_border=true&bg_color=0d1117&text_color=ffffff&theme=radical" alt="thehopecrystal" /> </p>
+<p align="left"> <img src="https://thehopecrystal.com/" alt="thehopecrystal" /> </p>
 
 ---
 
@@ -84,7 +84,7 @@
 <p align="left">
   <a href="https://github.com/thehopecrystal" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://twitter.com/thehopecrystal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/thehopecrystal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/hope-orobosa-henry" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://thehopecrystal.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
   <a href="mailto:contact@thehopecrystal.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
