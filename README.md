@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **open-source web apps, developer tools, and community projects**
 - 💬 Ask me about **Python, JavaScript, TypeScript, React, Node.js, and clean UI/UX design**
 - 📫 How to reach me: **contact@thehopecrystal.com**
-- ⚡ Fun fact: **The clearest crystals form under pressure — and so do the best developers.**
+- ⚡ Fun fact: **My code has fewer bugs than my sleep schedule has hours.**
 
 ---
 
