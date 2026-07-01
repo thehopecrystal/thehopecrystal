@@ -1,6 +1,6 @@
 # Hi 👋, I'm The Hope Crystal
 
-### A passionate Full-Stack Developer & Open-Source Enthusiast from Lagos, Nigeria
+### A passionate Full-Stack Developer & Open-Source Enthusiast from Earth
 
 <p align="left"> <img src="https://komarev.com/gh-profile-card?username=thehopecrystal&hide_border=true&bg_color=0d1117&text_color=ffffff&theme=radical" alt="thehopecrystal" /> </p>
 
@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **building crystal-clear web experiences with The Hope Crystal**
+- 🔭 I’m currently working on **building crystal-clear web experiences with Hope Crystal Network**
 - 🌱 I’m currently learning **advanced cloud architecture and AI/ML integration**
 - 👯 I’m looking to collaborate on **open-source web apps, developer tools, and community projects**
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, and clean UI/UX design**
+- 💬 Ask me about **Python, JavaScript, TypeScript, React, Node.js, and clean UI/UX design**
 - 📫 How to reach me: **contact@thehopecrystal.com**
-- ⚡ Fun fact: **I believe great code, like a crystal, is shaped by clarity, intention, and time.**
+- ⚡ Fun fact: **The clearest crystals form under pressure — and so do the best developers.**
 
 ---
 
